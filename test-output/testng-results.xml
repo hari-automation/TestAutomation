@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37888" started-at="2022-03-09T22:01:46 IST" finished-at="2022-03-09T22:02:24 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="37888" started-at="2022-03-09T22:01:46 IST" finished-at="2022-03-09T22:02:24 IST">
+      <class name="TestCases.FirstTestCase">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestCases.FirstTestCase@df27fae]" name="init" is-config="true" duration-ms="35816" started-at="2022-03-09T22:01:46 IST" finished-at="2022-03-09T22:02:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateImage()[pri:0, instance:TestCases.FirstTestCase@df27fae]" name="validateImage" duration-ms="703" started-at="2022-03-09T22:02:22 IST" finished-at="2022-03-09T22:02:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateImage -->
+        <test-method status="PASS" signature="validatetitle()[pri:0, instance:TestCases.FirstTestCase@df27fae]" name="validatetitle" duration-ms="63" started-at="2022-03-09T22:02:22 IST" finished-at="2022-03-09T22:02:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.FirstTestCase@df27fae]" name="tearDown" is-config="true" duration-ms="1254" started-at="2022-03-09T22:02:23 IST" finished-at="2022-03-09T22:02:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.FirstTestCase -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
